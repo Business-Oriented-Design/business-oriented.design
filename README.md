@@ -8,7 +8,7 @@
 
 **直播课件（上篇）：**[查看并下载](https://github.com/Business-Oriented-Design/business-oriented.design/blob/main/slides/使用履约建模法实施面向业务设计（上篇直播版）.pdf)
 
-<iframe src="//player.bilibili.com/player.html?aid=676769406&bvid=BV1MU4y1u7H3&cid=445086245&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%“> </iframe>
+<iframe src="//player.bilibili.com/player.html?aid=676769406&bvid=BV1MU4y1u7H3&cid=445086245&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%"></iframe>
 
 ### 《使用履约建模法实施面向业务设计》（中篇：履约建模法操作过程介绍）
 
