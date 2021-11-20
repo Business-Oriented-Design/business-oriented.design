@@ -10,9 +10,7 @@
 
 <iframe src="//player.bilibili.com/player.html?aid=676769406&bvid=BV1MU4y1u7H3&cid=445086245&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="800" height="600"> </iframe>
 
-**直播课件：**
-
-[查看并下载](https://github.com/Business-Oriented-Design/business-oriented.design/blob/main/slides/使用履约建模法实施面向业务设计（上篇直播版）.pdf)
+**直播课件：**[查看并下载](https://github.com/Business-Oriented-Design/business-oriented.design/blob/main/slides/使用履约建模法实施面向业务设计（上篇直播版）.pdf)
 
 ### 《使用履约建模法实施面向业务设计》（中篇：履约建模法操作过程介绍）
 
