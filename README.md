@@ -61,7 +61,7 @@
 
 ### 深度学习：极客时间课程《如何落地业务建模》
 
-[点击前往学习（需付费）](gk.link/a/10OP8)
+[点击前往学习（需付费）](http://gk.link/a/10OP8)
 
 <script type="text/javascript">
         var iframe = document.getElementsByTagName("iframe");
