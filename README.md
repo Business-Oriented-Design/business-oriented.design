@@ -59,6 +59,12 @@
 
 <iframe src="//player.bilibili.com/player.html?aid=548330671&bvid=BV1Uq4y1P7nj&cid=416007854&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%"> </iframe>
 
+### 相关知识：《Smart Domain》
+
+**直播课件：**[查看并下载](https://github.com/Business-Oriented-Design/business-oriented.design/blob/main/slides/Smart%20Domain%EF%BC%88%E5%BE%90%E6%98%8A%EF%BC%89.pdf)
+
+<iframe src="//player.bilibili.com/player.html?aid=470988533&bvid=BV1QT411J7jh&cid=774041400&page=1&high_quality=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true" width="100%"> </iframe>
+
 ### 深度学习：极客时间课程《如何落地业务建模》
 
 [点击前往学习（需付费）](http://gk.link/a/10OP8)
@@ -70,3 +76,4 @@
             iframe[num - 1].style.height = iframe[num - 1].scrollWidth * 0.5625 + "px";
         }
 </script>
+
